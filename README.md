@@ -2,11 +2,7 @@
 
 Every Claude Code reply starts with date, time and a colored dot:
 
-```
-🟣 2026-10-05 11:34
-
-Reply ...
-```
+![Two Claude Code replies, each starting with an orange dot and the time](docs/screenshot.png)
 
 The dot changes over the day, from dark in the morning to red after 20:00:
 
