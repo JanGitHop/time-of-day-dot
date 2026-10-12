@@ -1,0 +1,10 @@
+{
+  "name": "time-of-day-dot",
+  "version": "1.0.0",
+  "description": "Prefix every Claude Code reply with date, time and a colored dot that shifts from dark in the morning to red after 20:00.",
+  "author": {
+    "name": "Jan Geißler",
+    "url": "https://github.com/JanGitHop"
+  },
+  "license": "MIT"
+}
