@@ -1,13 +1,13 @@
 {
   "$schema": "https://www.schemastore.org/claude-code-marketplace.json",
-  "name": "time-of-day-dot",
+  "name": "timestamped-replies",
   "description": "Every Claude Code reply starts with date, time and a colored time-of-day dot.",
   "owner": {
     "name": "Jan Geißler"
   },
   "plugins": [
     {
-      "name": "time-of-day-dot",
+      "name": "timestamped-replies",
       "description": "Prefix every reply with date, time and a colored time-of-day dot.",
       "source": "./",
       "category": "productivity"
